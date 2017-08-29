@@ -1,0 +1,60 @@
+[
+  {
+    "objectSlug": "sword",
+    "itemName": "Sword",
+    "description": "A long, sharp blade.",
+    "itemType":  "Weapon",
+    "actionName": "Equip",
+    "itemModifier": 0,
+    "stats": [
+      {
+      	"StatType": "Power",
+      	"baseValue": 2,
+        "statName": "Power"
+      },
+      {
+     	"StatType": "Toughness",
+        "baseValue": 4,
+        "statName": "Toughness"
+      },
+      {
+     	"StatType": "AttackSpeed",
+        "baseValue": 4,
+        "statName": "Attack Speed"
+      }
+    ]
+  },
+  {
+    "objectSlug": "potion_log",
+    "itemName": "Log Potion",
+    "description": "A potion that logs something to the console.",
+    "itemType": "Consumable",
+    "actionName": "Drink",
+    "itemModifier": 0
+  },
+  {
+    "objectSlug": "staff",
+    "itemName": "Staff",
+    "description": "A shooty poky wizard's best friend.",
+    "itemType":  "Weapon",
+    "actionName": "Equip",
+    "itemModifier": 0,
+    "stats": [
+      {
+      	"StatType": "Power",
+      	"baseValue": 8,
+        "statName": "Power"
+      },
+      {
+     	"StatType": "Toughness",
+        "baseValue": 2,
+        "statName": "Toughness"
+      },
+      {
+     	"StatType": "AttackSpeed",
+        "baseValue": 2,
+        "statName": "Attack Speed"
+      }
+    ]
+  }
+]
